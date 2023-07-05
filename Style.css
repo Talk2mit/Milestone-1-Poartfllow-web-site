@@ -1,5 +1,7 @@
-div{
+.head{
     background-color: aquamarine;
+    border: 3px solid red;
+    text-align: center;
 }
 input{
     margin: 5px;
