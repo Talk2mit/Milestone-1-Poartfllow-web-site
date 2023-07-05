@@ -7,3 +7,10 @@ input{
     margin: 5px;
     color: blue;
 }
+div{
+    margin: 10px;
+    
+}
+p{
+    background-color: rgb(21, 198, 151);
+}
